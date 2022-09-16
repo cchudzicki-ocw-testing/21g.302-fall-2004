@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Required Textbooks
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
